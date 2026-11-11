@@ -62,3 +62,21 @@
   <br/>
   <b>Keep Learning | Keep Building | Keep Growing 🚀</b>
 </p>
+
+
+## 🚀 Featured Projects
+
+### ⚡ GridSense – Autonomous Smart Microgrid Command Center
+
+🏆 **Achievement:** HackSphere 3.0 Grand Finalist
+
+An AI-powered energy management platform designed to forecast electricity demand, manage battery storage, and improve smart microgrid operations.
+
+**My Contributions:**
+- 🤖 Worked on Machine Learning using Zoho QuickML.
+- 🔍 Contributed to project research and planning.
+- 🛠️ Participated in testing, debugging, and identifying issues.
+
+**Technologies:** Python, Flask, React, Zoho QuickML, Zoho Catalyst, Three.js.
+
+🔗 [View GridSense Repository](https://github.com/mahammadinthiyaz0408-web/GridSense)
