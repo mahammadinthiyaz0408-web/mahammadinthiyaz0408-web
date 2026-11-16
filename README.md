@@ -85,3 +85,8 @@ An AI-powered energy management platform designed to forecast electricity demand
 **Technologies:** Python, Flask, React, Zoho QuickML, Zoho Catalyst, Three.js.
 
 🔗 [View GridSense Repository](https://github.com/mahammadinthiyaz0408-web/GridSense)
+<h3 align="center">🐍 My GitHub Contributions</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mahammadintiyaz0408-web/mahammadintiyaz0408-web/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+</p>
