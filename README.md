@@ -3,6 +3,11 @@
 <h3 align="center">Computer Science Engineering Student | Aspiring Developer</h3>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+Software+Developer;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Development+Learner;Building+Real+World+Projects" />
+</p>
+
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=550&lines=Aspiring+Software+Developer;Exploring+AI+%26+Machine+Learning;Building+Real-World+Projects;Always+Learning+New+Technologies" />
 </p>
 
