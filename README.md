@@ -62,13 +62,13 @@ An AI-powered podcast generation project exploring automated content creation us
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahammadintiyaz0408-web&show_icons=true&theme=tokyonight" />
+</p>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mahammadinthiyaz0408-web&show_icons=true&theme=tokyonight" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahammadinthiyaz0408-web&layout=compact&theme=tokyonight" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahammadintiyaz0408-web&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
