@@ -46,7 +46,7 @@ An AI-powered energy management platform designed to forecast electricity demand
 **My Contributions:**
 - Worked on Machine Learning using Zoho QuickML.
 - Contributed to project research and planning.
-- Participated in testing and debugging.
+- Participated in testing, debugging, and identifying issues.
 
 **Technologies:** Python, Flask, React, Zoho QuickML, Zoho Catalyst, Three.js.
 
@@ -78,7 +78,7 @@ An AI-powered podcast generation project exploring automated content creation us
 ## 🐍 My GitHub Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mahammadintiyaz0408-web/mahammadintiyaz0408-web/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/mahammadintiyaz0408-web/mahammadintiyaz0408-web/refs/heads/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
 </p>
 
 ---
