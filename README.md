@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:7B2FF7&height=200&section=header&text=Welcome%20to%20My%20GitHub&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+</p>
 <h1 align="center">Hi 👋, I'm Mahammad Inthiyaz</h1>
 
 <h3 align="center">Computer Science Engineering Student | Aspiring Developer</h3>
